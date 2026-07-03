@@ -176,134 +176,21 @@ The Golden Kubestronaut upgrade includes the following exams: **LFCS, PCA, ICA, 
 <details>
 <summary><strong>Click to expand historical/expired coupon codes</strong></summary>
 
-### 30% KubeCon + CloudNativeCon North America 2025 *(Expired)*
-
-KubeCon + CloudNativeCon North America — Atlanta, November 10–11.
-
-- **All-Access Pass:** Entry to all 18 CNCF-hosted co-located events + KubeCon + CloudNativeCon
-- **KubeCon + CloudNativeCon Only Pass:** Entry to KubeCon + CloudNativeCon only
-
-**Coupon:** `COMTECHIES` — expired August 26
-
-### 20% OFF Linux Foundation KubeCon Discount Codes *(Expired)*
-
-KubeCon + CloudNativeCon Europe 2026, Amsterdam.
-
-**Coupon:** `COMTECHIES20` at [kube.promo/kubecon](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/)
-
-### [UpTo 65% OFF] Linux Foundation Mega Cyber Boost Sale *(Expired)*
-
-- Individual certs: `MM26CCCT` — flat 50% off
-- Bundles: `MM26BUNCT` — up to 60% off (CKA+CKAD, CKA+CKS, CKA+CKAD+CKS, KCNA+CKA, KCSA+CKS, KCNA+KCSA)
-- Kubestronaut/Golden Kubestronaut bundles: `MM26K8BUNCT` — 50% off
-- Bundled with THRIVE Annual Subscription: up to 65% off + 100+ educational products, 45+ e-learning courses, 8+ SkillCreds
-
-### [UpTo 75% OFF] Linux Foundation Prime Deal *(Expired)*
-
-- Individual certs: `JPRIME26CCCT` — flat 40% sitewide
-- Kubernetes bundles: `JPRIME26BCT` — up to 55% off
-- Super bundles: `JPRIME26SBCT` — up to 75% off (Cloud Native, Cybersecurity, Cloud Native Developer)
-- THRIVE-Annual: `JPRIME26TOCT` — 20% off
-
-### [UpTo 45% OFF] Linux Foundation Tech Talent Sale *(Expired)*
-
-**Coupon:** `TECHTALENT26CT` at [kube.promo/devops](https://kube.promo/devops) — flat 40% off, up to 45% on bundles. Reference: [2026 Tech Talent Report](https://training.linuxfoundation.org/2026-state-of-tech-talent-report/)
-
-### [UpTo 45% OFF] Linux Foundation Kubernetes Birthday Sale 2026 *(Expired)*
-
-**Coupon:** `HBDK826CCCT` at [kube.promo/devops](https://kube.promo/devops) — flat 35% off, 3-day flash sale
-
-### [75% OFF] Linux Foundation Lunar New Year Sale (2026) *(Expired)*
-
-- Individual certs: `LUNAR26CT` — flat 35% off
-- Kubernetes bundles: `LUNAR26BUNCT` — up to 38% off
-- Kubestronaut bundle: `LUNAR26K8CT` — 40% off
-- Instructor-Led Courses: `LUNAR26ILTCT` — flat 40% off
-- Super bundles: `LUNAR26SBCT` — up to 75% off
-- Other bundles (excl. Kubernetes): `LUNAR26BUNCT` — 50% off
-
-### [55% OFF] Linux Foundation Kubecon Sale *(Expired)*
-
-**Coupon:** `R2KUBECT` — up to 55% off Kubernetes bundles (CKA+CKAD, CKA+CKS, CKA+CKAD+CKS, Kubestronaut, KCNA+CKA, KCSA+CKS, KCNA+KCSA)
-
-### [UpTo 65% OFF] Linux Foundation Cyber Monday Sale 2025 *(Expired)*
-
-- Individual certs: `CW25CT` — flat 50% off
-- Bundles: `CW25BUNCT` — 60%+ off (CKA+CKAD, CKA+CKS, CKA+CKAD+CKS, KCNA+CKA, KCSA+CKS, KCNA+KCSA)
-- Kubestronaut/Golden Kubestronaut bundles: `CW25K8BUNCT`
-
-### [UpTo 47% OFF] Linux Foundation Holiday Sale *(Expired)*
-
-**Coupon:** `HOLIDAY25CT` at [kube.promo/devops](https://kube.promo/devops) — flat 40% off individual certs, up to 47% on bundles
-
-### [UpTo 55% OFF] Linux Foundation Flash Sale *(Expired)*
-
-**Coupon:** `JAN50CT` at [kube.promo/devops](https://kube.promo/devops) — flat 50% off, up to 55% on bundles (CKA+CKAD, CKA+CKS, CKA+CKAD+CKS, Kubestronaut, KCNA+CKA, KCSA+CKS, KCNA+KCSA)
-
-### [UpTo 47% OFF] Linux Foundation KubeCon Sale *(Expired)*
-
-**Coupon:** `40KUBE25CT` at [kube.promo/devops](https://kube.promo/devops) — flat 40% off individual certs, up to 47% on bundles
-
-### [UpTo 47% OFF] Linux Foundation Cyber Security Sale *(Expired)*
-
-- KCSA / KCNA: flat 40% off
-- Coupon: `OCT25CYBERCT`
-- Bundles up to 47% off: CKA+CKS, KCSA+CKS
-
-### [UpTo 47% OFF] Linux Foundation Back to School & Skills Sale *(Expired)*
-
-**Coupon:** `SEPT25CT` at [kube.promo/devops](https://kube.promo/devops) — flat 40% off individual certs, up to 47% on bundles
-
-### [75% Off] Linux Foundation August Blockbuster Sale *(Expired)*
-
-**Coupon:** `AUG25CT` at [kube.promo/devops](https://kube.promo/devops) — flat 35% off individual certs, 40%+ off bundles
-
-### [UpTo 55% OFF] Linux Foundation Sysadmin Sale *(Expired)*
-
-- Individual certs: `25JULY200CT`
-- Bundles: `25JULY500CT` (Kubestronaut, CKA+CKAD+CKS)
-
-### [UpTo 47% OFF] Linux Foundation Lunar New Year Sale (2025) *(Expired)*
-
-**Coupon:** `LUNAR25CT` at [kube.promo/devops](https://kube.promo/devops) — flat 40% off individual certs, up to 47% on bundles
-
-### [43% OFF] Linux Foundation Exclusive Sale *(Expired)*
-
-**Coupon:** `SEPTEMBER24CT` at [kube.promo/devops](https://kube.promo/devops) — flat 35% off
-
-### [UpTo 47% OFF] Linux Foundation 2-Days ONLY Sale *(Expired)*
-
-Flat 40% off individual certifications; up to 47% off overall
-
-### [$400 OFF] ALL Instructor-led Trainings *(Expired)*
-
-**Coupon:** `JULY24ILT` — flat $400 off Instructor-led Training
-
-### 30% OFF Earthday Site-wide Linux Foundation Sale *(Expired)*
-
-- **Coupon:** `EARTHDAY24COM` at [kube.promo/devops](https://kube.promo/devops) — flat 30% off, extra bundle discounts
-  - CKA+CKS: $283 savings
-  - CKA+CKAD+CKS: $419 savings
-- Instructor-led courses: `EARTHDAY24ILT`
-
-### 40% OFF Pot of Career Gold Linux Foundation Sale *(Expired)*
-
-**Coupon:** `LUCK24COM` — 25% off individual certifications (up to 40% overall)
-
-### [50% OFF] Linux Foundation Leap into Learnings Sale *(Expired)*
-
-**Coupon:** `LEAP24COM` at [kube.promo/certs](https://kube.promo/certs) — CKA/CKAD/CKS/KCNA. Valid Feb 20–29, 2024. One year validity to sit the exam after registration. Excludes THRIVE-ONE subscriptions and FinOps.
-
-### 35% OFF Two-Day Flash Sale *(Expired)*
-
-**Coupon:** `AWARD35` at [kube.promo/devops](https://kube.promo/devops) — flat 35% off
-
-### 35% OFF Linux Foundation New Year Sale *(Expired)*
-
-**Coupon:** `SCRIPT20` at [Linux Foundation Coupon](https://kube.promo/devops) — up to 35% off
 
 </details>
 
 ---
+
+## Connect with Me
+
+Follow me on social media for more sessions, tech tips, and giveaways:
+
+- [LinkedIn](https://www.linkedin.com/in/nisalgunawardhana/) — Professional updates and networking
+- [Twitter (X)](https://x.com/thenisals) — Insights and announcements
+- [Instagram](https://www.instagram.com/thenisals) — Behind-the-scenes and daily tips
+- [GitHub](https://github.com/nisalgunawardhana) — Repositories and project updates
+- [YouTube](https://www.youtube.com/channel/UCNP5-zR4mN6zkiJ9pVCM-1w) — Video tutorials and sessions
+
+Feel free to connect and stay updated!
 
 *Have a coupon code we're missing? Contributions and corrections are welcome.*
