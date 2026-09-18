@@ -30,18 +30,17 @@ All currently valid Linux Foundation & CNCF coupon codes, **newest first**.
 
 | # | Offer | Discount | Coupon Code | Link | Notes |
 |---|-------|----------|--------------|------|-------|
-| 1 | 35th Anniversary Sitewide Sale | 35% OFF Sitewide | `TUX35` | [Claim Offer](https://training.linuxfoundation.org/august-2026-promo/) | Limited-edition 35th Anniversary digital badge & certificate with LFCA/LFCS. Expires Aug 18, 2026 |
-| 2 | Linux Foundation DevOps Sale | Up to 38% OFF | `DCUBE30` | [kube.promo/devops](https://kube.promo/devops) | Flat 30% on all certs/training; up to 38% on bundles like Kubestronaut |
-| 3 | KubeCon + CloudNativeCon India 2026 — Corporate Pass | 30%+ Off | `COMTECHIES_199` | [Register](https://events.linuxfoundation.org/) | For attendees whose company pays. Mumbai, June 18–19. Expires Aug 26 |
-| 4 | KubeCon + CloudNativeCon India 2026 — Individual Pass | 14% Off | `COMTECHIES_85` | [Register](https://events.linuxfoundation.org/) | For self-funded / non-profit attendees. Expires Aug 26 |
-| 5 | Kubestronaut Bundle Discount | 40% OFF | `DCUBE30` | [kube.promo/kubestronaut](https://kube.promo/kubestronaut) | See [Kubestronaut path options](#kubestronaut-upgrade-paths) below |
-| 6 | Golden Kubestronaut Bundle | 40% OFF | `DCUBE30` | [Upgrade Bundle](https://trainingportal.linuxfoundation.org/collections/kubestronaut-to-golden-kubestronaut-upgrade-bundle) | Requires existing Kubestronaut status |
-| 7 | FinOps Certification Discount | Limited Offer | `COMTECHIES_20` | [learn.finops.org](https://learn.finops.org/) | Valid for all 4 FinOps certifications |
-| 8 | Linux Foundation Rewards Program | 50% OFF | *(auto-applied)* | [Check Rewards](https://openprofile.dev/myrewards/coupons) | Unlocked after spending $500 with Linux Foundation |
-| 9 | Linux Foundation Bundle Discount | Extra savings | `COMBUNDLE25` | [CKA+CKAD+CKS](https://kube.promo/k8s-bundle) · [CKA+CKS](https://kube.promo/bundle) | Stack on top of bundle pricing |
+| 1 | Back to School Sale — Bundles & Instructor-Led Training | Up to 40% OFF | `SEPT26BTS40` | [Enroll Today](https://training.linuxfoundation.org/) | Save on bundles & instructor-led training across AI, cybersecurity, cloud native, Linux & more. Expires Sep 22, 2026 |
+| 2 | Back to School Sale — e-Learning & Certifications | Up to 35% OFF | `SEPT26BTS35` | [Enroll Today](https://training.linuxfoundation.org/) | Save on e-Learning courses & certifications. Expires Sep 22, 2026 |
+| 3 | Linux Foundation DevOps Sale | Up to 38% OFF | `DCUBE30` | [kube.promo/devops](https://kube.promo/devops) | Flat 30% on all certs/training; up to 38% on bundles like Kubestronaut |
+| 4 | Kubestronaut Bundle Discount | 40% OFF | `DCUBE30` | [kube.promo/kubestronaut](https://kube.promo/kubestronaut) | See [Kubestronaut path options](#kubestronaut-upgrade-paths) below |
+| 5 | Golden Kubestronaut Bundle | 40% OFF | `DCUBE30` | [Upgrade Bundle](https://trainingportal.linuxfoundation.org/collections/kubestronaut-to-golden-kubestronaut-upgrade-bundle) | Requires existing Kubestronaut status |
+| 6 | FinOps Certification Discount | Limited Offer | `COMTECHIES_20` | [learn.finops.org](https://learn.finops.org/) | Valid for all 4 FinOps certifications |
+| 7 | Linux Foundation Rewards Program | 50% OFF | *(auto-applied)* | [Check Rewards](https://openprofile.dev/myrewards/coupons) | Unlocked after spending $500 with Linux Foundation |
+| 8 | Linux Foundation Bundle Discount | Extra savings | `COMBUNDLE25` | [CKA+CKAD+CKS](https://kube.promo/k8s-bundle) · [CKA+CKS](https://kube.promo/bundle) | Stack on top of bundle pricing |
 
 > [!IMPORTANT]
-> **35th Anniversary Special:** Save 35% sitewide with code `TUX35` and get an exclusive 35th Anniversary digital badge & certificate with your LFCA or LFCS. Already LFCA certified? Advance to LFCS through the CARE Program. Offer ends **August 18, 2026** — [claim it here](https://training.linuxfoundation.org/august-2026-promo/).
+> **🔔 Don't Miss the Bell: Save Up to 40%.** There's still time to add something new to your skill set — build technical expertise, prepare for what's next, or validate your skills with a certification. Use code `SEPT26BTS40` for 40% off bundles & instructor-led training, or `SEPT26BTS35` for 35% off e-Learning courses & certifications. Explore vendor-neutral training across AI, cybersecurity, cloud native, Linux, and more. Offer ends **September 22, 2026** — [enroll today](https://training.linuxfoundation.org/).
 
 > [!IMPORTANT]
 > **Best value pick:** If you have zero Kubernetes certifications yet, the **Kubestronaut Bundle** (KCNA + KCSA + CKA + CKAD + CKS) with code `DCUBE30` gives the largest overall savings (38%+).
@@ -49,14 +48,8 @@ All currently valid Linux Foundation & CNCF coupon codes, **newest first**.
 > [!NOTE]
 > Offers marked "limited time" can expire without notice — lock in pricing as soon as you're ready to register.
 
-### 35th Anniversary Credentials (TUX35)
-
-| Certification | Original Price | Sale Price (35% Off) | Link |
-|---|---|---|---|
-| LFCA — Linux Foundation Certified IT Associate | $250 | $163 | [LFCA Details](https://training.linuxfoundation.org/certification/linux-foundation-certified-it-associate-lfca/) |
-| LFCS — Linux Foundation Certified System Administrator | $445 | $290 | [LFCS Details](https://training.linuxfoundation.org/certification/linux-foundation-certified-sysadmin-lfcs/) |
-
-> Use code `TUX35` at checkout on [training.linuxfoundation.org](https://training.linuxfoundation.org/august-2026-promo/). Offer ends August 18, 2026.
+> [!NOTE]
+> 👋 **Heading to KubeCon + CloudNativeCon North America (Salt Lake City)?** Registration is still open — and while you're there, stop by the Learning Lounge to meet subject matter experts and see what's new in training and certification.
 
 ### Kubestronaut Upgrade Paths
 
@@ -189,6 +182,11 @@ The Golden Kubestronaut upgrade includes the following exams: **LFCS, PCA, ICA, 
 <details>
 <summary><strong>Click to expand historical/expired coupon codes</strong></summary>
 
+| # | Offer | Discount | Coupon Code | Notes |
+|---|-------|----------|--------------|-------|
+| 1 | 35th Anniversary Sitewide Sale | 35% OFF Sitewide | `TUX35` | Limited-edition 35th Anniversary digital badge & certificate with LFCA/LFCS. Expired Aug 18, 2026 |
+| 2 | KubeCon + CloudNativeCon India 2026 — Corporate Pass | 30%+ Off | `COMTECHIES_199` | For attendees whose company pays. Mumbai, June 18–19. Expired Aug 26, 2026 |
+| 3 | KubeCon + CloudNativeCon India 2026 — Individual Pass | 14% Off | `COMTECHIES_85` | For self-funded / non-profit attendees. Expired Aug 26, 2026 |
 
 </details>
 
