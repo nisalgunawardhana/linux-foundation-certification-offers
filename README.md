@@ -30,22 +30,21 @@ All currently valid Linux Foundation & CNCF coupon codes, **newest first**.
 
 | # | Offer | Discount | Coupon Code | Link | Notes |
 |---|-------|----------|--------------|------|-------|
-| 1 | Red Hat OpenShift AI Training (AI267LS) | 50% OFF | *(see Red Hat terms)* | [Details](RED-HAT-LEARNING-OFFERS.md#2-50-off-openshift-ai-training) | Discounted paid learning subscription, EX267 exam attempt listed as included. Ends Dec 31, 2026 |
-| 2 | Red Hat Enterprise Linux Technical Overview (RH024) | FREE | *(no code needed)* | [Start Free](https://www.redhat.com/en/services/training/rh024-red-hat-linux-technical-overview) | Free introductory on-demand Linux training. **Not** a free certification. See [full Red Hat guide](RED-HAT-LEARNING-OFFERS.md) |
-| 3 | Back to School Sale — Bundles & Instructor-Led Training | Up to 40% OFF | `SEPT26BTS40` | [Enroll Today](https://training.linuxfoundation.org/) | Save on bundles & instructor-led training across AI, cybersecurity, cloud native, Linux & more. Expires Sep 22, 2026 |
-| 4 | Back to School Sale — e-Learning & Certifications | Up to 35% OFF | `SEPT26BTS35` | [Enroll Today](https://training.linuxfoundation.org/) | Save on e-Learning courses & certifications. Expires Sep 22, 2026 |
-| 5 | Linux Foundation DevOps Sale | Up to 38% OFF | `DCUBE30` | [kube.promo/devops](https://kube.promo/devops) | Flat 30% on all certs/training; up to 38% on bundles like Kubestronaut |
-| 6 | Kubestronaut Bundle Discount | 40% OFF | `DCUBE30` | [kube.promo/kubestronaut](https://kube.promo/kubestronaut) | See [Kubestronaut path options](#kubestronaut-upgrade-paths) below |
-| 7 | Golden Kubestronaut Bundle | 40% OFF | `DCUBE30` | [Upgrade Bundle](https://trainingportal.linuxfoundation.org/collections/kubestronaut-to-golden-kubestronaut-upgrade-bundle) | Requires existing Kubestronaut status |
-| 8 | FinOps Certification Discount | Limited Offer | `COMTECHIES_20` | [learn.finops.org](https://learn.finops.org/) | Valid for all 4 FinOps certifications |
-| 9 | Linux Foundation Rewards Program | 50% OFF | *(auto-applied)* | [Check Rewards](https://openprofile.dev/myrewards/coupons) | Unlocked after spending $500 with Linux Foundation |
-| 10 | Linux Foundation Bundle Discount | Extra savings | `COMBUNDLE25` | [CKA+CKAD+CKS](https://kube.promo/k8s-bundle) · [CKA+CKS](https://kube.promo/bundle) | Stack on top of bundle pricing |
+| 1 | **Black Friday 2026 — Save the Date** | Up to 65% OFF | *(code drops Nov 27)* | [Save the Date](https://lnkz.xyz/qy9) | Biggest sale of the year on training, certifications, bundles & THRIVE-ONE subscriptions. Runs **Nov 27 – Dec 4, 2026** |
+| 2 | Red Hat OpenShift AI Training (AI267LS) | 50% OFF | *(see Red Hat terms)* | [Details](RED-HAT-LEARNING-OFFERS.md#2-50-off-openshift-ai-training) | Discounted paid learning subscription, EX267 exam attempt listed as included. Ends Dec 31, 2026 |
+| 3 | Red Hat Enterprise Linux Technical Overview (RH024) | FREE | *(no code needed)* | [Start Free](https://www.redhat.com/en/services/training/rh024-red-hat-linux-technical-overview) | Free introductory on-demand Linux training. **Not** a free certification. See [full Red Hat guide](RED-HAT-LEARNING-OFFERS.md) |
+| 4 | Linux Foundation DevOps Sale | Up to 38% OFF | `DCUBE30` | [kube.promo/devops](https://kube.promo/devops) | Flat 30% on all certs/training; up to 38% on bundles like Kubestronaut |
+| 5 | Kubestronaut Bundle Discount | 40% OFF | `DCUBE30` | [kube.promo/kubestronaut](https://kube.promo/kubestronaut) | See [Kubestronaut path options](#kubestronaut-upgrade-paths) below |
+| 6 | Golden Kubestronaut Bundle | 40% OFF | `DCUBE30` | [Upgrade Bundle](https://trainingportal.linuxfoundation.org/collections/kubestronaut-to-golden-kubestronaut-upgrade-bundle) | Requires existing Kubestronaut status |
+| 7 | FinOps Certification Discount | Limited Offer | `COMTECHIES_20` | [learn.finops.org](https://learn.finops.org/) | Valid for all 4 FinOps certifications |
+| 8 | Linux Foundation Rewards Program | 50% OFF | *(auto-applied)* | [Check Rewards](https://openprofile.dev/myrewards/coupons) | Unlocked after spending $500 with Linux Foundation |
+| 9 | Linux Foundation Bundle Discount | Extra savings | `COMBUNDLE25` | [CKA+CKAD+CKS](https://kube.promo/k8s-bundle) · [CKA+CKS](https://kube.promo/bundle) | Stack on top of bundle pricing |
 
 > [!NOTE]
 > 🎩 **New: Red Hat learning opportunities.** Free RH024 Linux intro training + 50% off OpenShift AI training (until Dec 31, 2026). Read the [full Red Hat guide](RED-HAT-LEARNING-OFFERS.md).
 
 > [!IMPORTANT]
-> **🔔 Don't Miss the Bell: Save Up to 40%.** There's still time to add something new to your skill set — build technical expertise, prepare for what's next, or validate your skills with a certification. Use code `SEPT26BTS40` for 40% off bundles & instructor-led training, or `SEPT26BTS35` for 35% off e-Learning courses & certifications. Explore vendor-neutral training across AI, cybersecurity, cloud native, Linux, and more. Offer ends **September 22, 2026** — [enroll today](https://training.linuxfoundation.org/).
+> **🖤 Black Friday 2026 is almost here: save up to 65%.** Our biggest deals of the year kick off **November 27** with up to 65% off training, certifications, bundles, and THRIVE-ONE subscriptions — from cloud native and AI/ML to cybersecurity and beyond. The sale runs **Nov 27 – Dec 4, 2026**. [Save the date and add it to your calendar](https://lnkz.xyz/qy9), then explore the full catalog now to build your list.
 
 > [!IMPORTANT]
 > **Best value pick:** If you have zero Kubernetes certifications yet, the **Kubestronaut Bundle** (KCNA + KCSA + CKA + CKAD + CKS) with code `DCUBE30` gives the largest overall savings (38%+).
@@ -189,9 +188,11 @@ The Golden Kubestronaut upgrade includes the following exams: **LFCS, PCA, ICA, 
 
 | # | Offer | Discount | Coupon Code | Notes |
 |---|-------|----------|--------------|-------|
-| 1 | 35th Anniversary Sitewide Sale | 35% OFF Sitewide | `TUX35` | Limited-edition 35th Anniversary digital badge & certificate with LFCA/LFCS. Expired Aug 18, 2026 |
-| 2 | KubeCon + CloudNativeCon India 2026 — Corporate Pass | 30%+ Off | `COMTECHIES_199` | For attendees whose company pays. Mumbai, June 18–19. Expired Aug 26, 2026 |
-| 3 | KubeCon + CloudNativeCon India 2026 — Individual Pass | 14% Off | `COMTECHIES_85` | For self-funded / non-profit attendees. Expired Aug 26, 2026 |
+| 1 | Back to School Sale — Bundles & Instructor-Led Training | Up to 40% OFF | `SEPT26BTS40` | Bundles & instructor-led training across AI, cybersecurity, cloud native, Linux & more. Expired Sep 22, 2026 |
+| 2 | Back to School Sale — e-Learning & Certifications | Up to 35% OFF | `SEPT26BTS35` | e-Learning courses & certifications. Expired Sep 22, 2026 |
+| 3 | 35th Anniversary Sitewide Sale | 35% OFF Sitewide | `TUX35` | Limited-edition 35th Anniversary digital badge & certificate with LFCA/LFCS. Expired Aug 18, 2026 |
+| 4 | KubeCon + CloudNativeCon India 2026 — Corporate Pass | 30%+ Off | `COMTECHIES_199` | For attendees whose company pays. Mumbai, June 18–19. Expired Aug 26, 2026 |
+| 5 | KubeCon + CloudNativeCon India 2026 — Individual Pass | 14% Off | `COMTECHIES_85` | For self-funded / non-profit attendees. Expired Aug 26, 2026 |
 
 </details>
 
