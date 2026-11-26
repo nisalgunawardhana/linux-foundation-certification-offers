@@ -30,7 +30,7 @@ All currently valid Linux Foundation & CNCF coupon codes, **newest first**.
 
 | # | Offer | Discount | Coupon Code | Link | Notes |
 |---|-------|----------|--------------|------|-------|
-| 1 | **Black Friday 2026 — Save the Date** | Up to 65% OFF | *(code drops Nov 27)* | [Save the Date](https://lnkz.xyz/qy9) | Biggest sale of the year on training, certifications, bundles & THRIVE-ONE subscriptions. Runs **Nov 27 – Dec 4, 2026** |
+| 1 | **🚀 Black Friday 2026 — LIVE NOW** | Up to 65% OFF | *(no code needed — discounts shown at checkout)* | [Shop Black Friday](https://lnkz.xyz/o4O) | Biggest sale of the year on training, certifications, bundles & THRIVE-ONE subscriptions. Runs now through **Dec 4, 2026** |
 | 2 | Red Hat OpenShift AI Training (AI267LS) | 50% OFF | *(see Red Hat terms)* | [Details](RED-HAT-LEARNING-OFFERS.md#2-50-off-openshift-ai-training) | Discounted paid learning subscription, EX267 exam attempt listed as included. Ends Dec 31, 2026 |
 | 3 | Red Hat Enterprise Linux Technical Overview (RH024) | FREE | *(no code needed)* | [Start Free](https://www.redhat.com/en/services/training/rh024-red-hat-linux-technical-overview) | Free introductory on-demand Linux training. **Not** a free certification. See [full Red Hat guide](RED-HAT-LEARNING-OFFERS.md) |
 | 4 | Linux Foundation DevOps Sale | Up to 38% OFF | `DCUBE30` | [kube.promo/devops](https://kube.promo/devops) | Flat 30% on all certs/training; up to 38% on bundles like Kubestronaut |
@@ -44,7 +44,7 @@ All currently valid Linux Foundation & CNCF coupon codes, **newest first**.
 > 🎩 **New: Red Hat learning opportunities.** Free RH024 Linux intro training + 50% off OpenShift AI training (until Dec 31, 2026). Read the [full Red Hat guide](RED-HAT-LEARNING-OFFERS.md).
 
 > [!IMPORTANT]
-> **🖤 Black Friday 2026 is almost here: save up to 65%.** Our biggest deals of the year kick off **November 27** with up to 65% off training, certifications, bundles, and THRIVE-ONE subscriptions — from cloud native and AI/ML to cybersecurity and beyond. The sale runs **Nov 27 – Dec 4, 2026**. [Save the date and add it to your calendar](https://lnkz.xyz/qy9), then explore the full catalog now to build your list.
+> **🚀 Black Friday 2026 is LIVE: save up to 65%.** Our biggest promotion of the year is on now through **December 4, 2026** — up to 65% off training, certifications, bundles, and THRIVE-ONE subscriptions, from cloud native and AI/ML to cybersecurity and beyond. [Explore the Black Friday deals](https://lnkz.xyz/o4O) before they're gone.
 
 > [!IMPORTANT]
 > **Best value pick:** If you have zero Kubernetes certifications yet, the **Kubestronaut Bundle** (KCNA + KCSA + CKA + CKAD + CKS) with code `DCUBE30` gives the largest overall savings (38%+).
